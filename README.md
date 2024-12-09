@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on:<br>An industrial PhD applying artificial intelligence to improve GNSS positioning and navigation systems.<br><br>🌱 Always learning:<br>New ways to apply AI and machine learning.<br>How to balance practical applications with cutting-edge research.<br><br>✨ Guiding principle: "Strength before weakness, Life before death, Journey before destination."
+🔭 Currently working on:<br>An industrial PhD applying artificial intelligence to improve GNSS positioning and navigation systems.<br><br>🌱 Always learning:<br>New ways to apply AI and machine learning.<br>How to balance practical applications with cutting-edge research.<br><br>✨ Favorite quote:<br>"*Strength before weakness*,<br>*Life before death*,<br>*Journey before destination*."
 
 
 ## 🌐 Socials:
